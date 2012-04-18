@@ -4,6 +4,7 @@
 //
 //  Created by Ben Reeves on 09/03/2010.
 //  Copyright 2010 Ben Reeves. All rights reserved.
+//  Updated by Xu Ke 2012
 //
 
 #import <Foundation/Foundation.h>
